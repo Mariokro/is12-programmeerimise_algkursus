@@ -1,1 +1,1 @@
-print "Töötab vaaa"
+print "abc".capitalize()

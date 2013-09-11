@@ -1,1 +1,1 @@
-print "Töötab"
+print "Töötab vaaa"
